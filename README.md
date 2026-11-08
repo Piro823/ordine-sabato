@@ -8,7 +8,9 @@ La necessità nasce dalle settimane di ferie, in cui il personale ridotto, risen
 
 Il programma chiede all'utente una riga alla volta di inserire la quantità di prodotto rimasta in magazzino.
 In questo modo il programma calcola la quantità di prodotto da ordinare.
-#  python3 'ordine_sabato_main.py' è il comando che server per avviarlo (Linux o visual studio code)
+Per avviare il programma da terminale Linux o visual studio code :
+
+#  python3 'ordine_sabato_main.py' 
 
 # Costruzione 
 In una prima bozza il programma saltava la riga dove veniva sollevato un ValueError attraverso try/except,
