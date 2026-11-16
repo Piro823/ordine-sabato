@@ -1,6 +1,6 @@
 # ordine - sabato
 
-Script in Python di programmazione funzionale, per calcolare  l'ordine del fine settimana.
+Script in Python, per calcolare  l'ordine del fine settimana.
 Chiunque può eseguirlo solo basandosi sui prodotti rimasti in magazzino, nient'altro.
 La necessità nasce dalle settimane di ferie, in cui il personale ridotto, risente la mancanza di chi si occupa  di queste mansioni.
 I nomi dei fornitori usati sono inventati volutamente per mantenere la privacy delle aziende. 
